@@ -1,5 +1,8 @@
 # GitFall2024
 
+Name: Sophia Willingham
+Email: sophia.willingham
+
 
 This is the starter code for your Git Assignment.
 
