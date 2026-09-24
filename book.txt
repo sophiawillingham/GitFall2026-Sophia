@@ -1,0 +1,21 @@
+The last book I read was really bad so instead I'm going to talk about my FAVORITE book ever the count of monte cristo. It's a story about revenge and the story telling in it is so amazing. It follows a man who was wrongfully imprisoned and how he gets justice for himself. I feel like the ending left me feeling satisfied and the characters defiantly learned their lesson by the end of it. On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .gitignore
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	book.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   book.txt
+
