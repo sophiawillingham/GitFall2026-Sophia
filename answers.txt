@@ -1,0 +1,63 @@
+Step 5:
+git status:
+On branch main
+Your branch is up to date with 'origin/main'.
+nothing to commit, working tree clean
+
+git shortlog:
+Esteban Parra (12):
+    starter files
+    added empty Main.java
+    Added names LinkedList
+    Added more names
+    Updated readme file
+    sllepy message
+    added another name
+    added another name
+    BookShop class create
+    Merge branch 'readme' I do not like VI that is what
+    Files added
+    Create .gitignore
+
+git log --graph --oneline:
+* e7fd94b Create .gitignore
+* 6aa1abe Files added
+*   5f75e75 Merge branch 'readme' I do not like VI that is what
+|\
+| * b3e573c added another name
+| * ea123f7 added another name
+| * 4cd474a sllepy message
+* | fca18d2 BookShop class create
+|/
+* 8228019 Updated readme file
+* 985e63e Added more names
+* 21ea409 Added names LinkedList
+* b02c65d added empty Main.java
+* bdd2fa9 starter files
+
+Step 6:
+When I ran git remote it showed origin.
+
+Step 22:
+There are two branches now, main and feature1. The * is next to feature1 so that is the branch I am currently on.
+
+Step 30:
+inspiration.txt is gone because I made it on the feature1 branch and I am back on main now.
+
+Step 33:
+gitk did not open. When I ran it Terminal said "-bash: gitk: command not found".
+
+Step 36:
+a. 17
+b. september 24, 2026 at 11:26:47 AM
+c. I would use git log with the date to find the commit from that day then git ls-tree to see what files were in the repository
+d. the file inside src is file.java and it was modified 1 time
+e. Remove.txt was added 1 time
+f. git log shows the history of commit and git status shows the current changes 
+g. git shortlog gives a shorter summary of the commits and groups them by who created them
+h. b3e573c, ea123f7, 985e63e, 21ea409, and b02c65d
+i. I used git log --follow -p to see the history of Main.java and the changes made to it
+j. There were no commits with account in the message
+k. I searched for commits made by Esteban Parra! and found 12
+l. no commits made by Lauren
+
