@@ -105,7 +105,7 @@ public class Main {
     public static void printHistogram(ArrayList<Double> costs) {
         System.out.println("cost histogram:");
 
-        for (double cost = 0; cost <= 5; cost++) {
+        for (double cost = 0; cost <= 6; cost += 0.5) {
             int count = 0;
 
             for (double cardCost : costs) {
@@ -164,7 +164,7 @@ public class Main {
                 content.showText("Cost Histogram:");
                 content.newLine();
 
-                for (double cost = 0; cost <= 5; cost++) {
+                for (double cost = 0; cost <= 6; cost += 0.5) {
                     int count = 0;
 
                     for (double cardCost : costs) {
